@@ -1,0 +1,6 @@
+set title "Падение тела в вязкой среде"
+
+set lmargin 9
+set rmargin 2
+plot 'D:\datapacks.dat' using 0:1 notitle with lines
+pause -1
